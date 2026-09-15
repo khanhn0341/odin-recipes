@@ -1,4 +1,4 @@
-markdown# Odin Recipes
+Odin Recipes
 
 A simple recipes website built as part of **The Odin Project's** Foundations Curriculum. This project demonstrates foundational knowledge of **HTML** and basic **Git/GitHub** workflows.
 
